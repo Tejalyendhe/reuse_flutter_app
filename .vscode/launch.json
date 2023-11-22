@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Dart Web",
+            "program": "web",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
